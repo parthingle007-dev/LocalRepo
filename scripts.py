@@ -3,5 +3,7 @@ a = ["This","is","a", "new", "repo"]
     print(a[i],end=" ")'''
 for word in a:
     print(word, end=" "+"parth Dnyaneshwar ")
+    print(word, end=" "+"parth ingle")
+
 
     
